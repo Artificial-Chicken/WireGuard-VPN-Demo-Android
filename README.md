@@ -1,4 +1,4 @@
-# WireGuard VPN Demo
+# WireGuard VPN Demo In Android
 
 A demo Android application showcasing how to integrate and control a **WireGuard VPN** tunnel on Android using Kotlin and Android’s native `VpnService`.
 
