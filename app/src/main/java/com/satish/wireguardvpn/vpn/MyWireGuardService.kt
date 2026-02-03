@@ -133,6 +133,7 @@ class MyWireGuardService : VpnService() {
                     .build()
             )
             .build()
+            //IMPORTANT!! to use this remove the PresharedKey from your config, otherwise you wont get a valid response
     }
 
     /**
